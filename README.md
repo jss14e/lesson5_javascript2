@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 30, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Sapp
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Tax Calculator
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/jss14e/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use .innerHTML in context 
+2. How to use IDs effectively
+3. How to implement functions like buttons
